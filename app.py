@@ -7,3 +7,5 @@ page = QuotesPage(page_content)
 
 for quote in page.quotes:
     print(quote.content)
+
+
